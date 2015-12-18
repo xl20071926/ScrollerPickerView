@@ -1,19 +1,18 @@
 //
-//  BounceViewTests.m
-//  BounceViewTests
+//  LXScrollPickerViewDemoTests.m
+//  LXScrollPickerViewDemoTests
 //
-//  Created by Leexin on 15/11/3.
-//  Copyright (c) 2015年 Leexin. All rights reserved.
+//  Created by Leexin on 15/12/17.
+//  Copyright © 2015年 Garden.Lee. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface BounceViewTests : XCTestCase
+@interface LXScrollPickerViewDemoTests : XCTestCase
 
 @end
 
-@implementation BounceViewTests
+@implementation LXScrollPickerViewDemoTests
 
 - (void)setUp {
     [super setUp];
@@ -27,7 +26,7 @@
 
 - (void)testExample {
     // This is an example of a functional test case.
-    XCTAssert(YES, @"Pass");
+    // Use XCTAssert and related functions to verify your tests produce the correct results.
 }
 
 - (void)testPerformanceExample {
